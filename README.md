@@ -2,5 +2,10 @@
 
 ## PARTE 5/ Ejercicio 1
 Capacitación: Git, bash y docker
-Integrantes:
+Integrante:
 - Carmen Gómez
+
+- Scrum Master:
+- Pedro Vega
+
+
