@@ -5,3 +5,5 @@
 
 2. ¿Para qué sirve DevOps?
 - Es un término de entorno de TI, normalmente se asocia a estrategias de transformación digital y a metologías como desarrollo ágil
+
+...................||||||||||||||||||||||||||||...........................
